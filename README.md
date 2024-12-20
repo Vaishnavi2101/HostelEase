@@ -1,7 +1,7 @@
-# Hostel Room Reservation System
+# HostelEase
 
 ## Overview
-The **Hostel Room Reservation System** is a web application developed to streamline the process of hostel room reservations. Students can easily reserve a bed and hostel room through the website. The system implements a color-coded interface that visually indicates the status of each room and bed, making it user-friendly to check availability.
+The **HostelEase** is a web application developed to streamline the process of hostel room reservations. Students can easily reserve a bed and hostel room through the website. The system implements a color-coded interface that visually indicates the status of each room and bed, making it user-friendly to check availability.
 
 ## Key Features
 
